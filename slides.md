@@ -1,6 +1,6 @@
 ---
 theme: seriph
-background: assets/images/intro-ataraxie.png
+background: ./images/intro-ataraxie.png
 title: Ataraxie numérique
 info: |
   ## Ataraxie numérique
@@ -52,7 +52,7 @@ layout: center
 
 ---
 layout: cover
-background: assets/images/candles.jpg
+background: ./images/candles.jpg
 ---
 
 # Science, numérique, IA
@@ -71,7 +71,7 @@ L’**ataraxie** (du grec ἀταραξία, signifiant « absence de troubles �
 
 ---
 layout: cover
-background: assets/images/Epicure.jpg
+background: ./images/Epicure.jpg
 ---
 
 # Epicure
@@ -105,13 +105,13 @@ timeline
 
 ---
 layout: image-left
-image: assets/images/Jesus.jpg
+image: ./images/Jesus.jpg
 class: bg-black
 ---
 
 <v-switch>
   <template #1-3>
-    <img src='/assets/images/ymca.jpg' alt="Lettres 'MCA' qui complètent le 'Y' fait par l'image de Jesus" />
+    <img src='/images/ymca.jpg' alt="Lettres 'MCA' qui complètent le 'Y' fait par l'image de Jesus" />
   </template>
   <template #2>
     <div class="absolute right-30px bottom-30px text-sm text-white">
@@ -213,7 +213,7 @@ Le numérique sait déclencher des plaisirs artificiels en sa faveur ([*fake dop
 
 ---
 layout: image-left
-image: assets/images/socrate-ordinateur.avif
+image: ./images/socrate-ordinateur.avif
 class: bg-black h-full flex
 ---
 
@@ -329,7 +329,7 @@ Revenons à ce que disait Epicure
 
 ---
 layout: cover
-background: assets/images/stop-hand.jpg
+background: ./images/stop-hand.jpg
 class: bg-black
 ---
 
@@ -373,7 +373,7 @@ Précisons ici que les limites personnelles, même si on pouvait les définir, s
 
 ---
 layout: cover
-background: assets/images/terre-plate.avif
+background: ./images/terre-plate.avif
 class: bg-black
 ---
 
@@ -381,7 +381,7 @@ class: bg-black
 
 ---
 layout: image-left
-image: 'assets/images/Planetary Boundaries 2023.png'
+image: './images/Planetary Boundaries 2023.png'
 backgroundSize: 95%
 ---
 
@@ -399,7 +399,7 @@ backgroundSize: 95%
 
 --- 
 layout: image
-image: 'assets/images/Planetary boundaries over time - stockolm resilience center.png'
+image: './images/Planetary boundaries over time - stockolm resilience center.png'
 backgroundSize: 95% 70%
 ---
 
@@ -416,7 +416,7 @@ class: text-center
 
 ---
 layout: cover
-background: assets/images/limits.jpg
+background: ./images/limits.jpg
 ---
 
 # Peut-on intégrer des limites humaines aux limites planétaires ?
@@ -435,7 +435,7 @@ Sauf que ça demande de changer plus que le modèle économique dominant (la cro
 
 --- 
 layout: image-right
-image: 'assets/images/doughnut.jpg'
+image: './images/doughnut.jpg'
 backgroundSize: 95% 
 ---
 
@@ -447,7 +447,7 @@ Allier les limites humaines aux limites planétaires.
 
 --- 
 layout: image
-image: 'assets/images/Doughnut-transgressing.jpg'
+image: './images/Doughnut-transgressing.jpg'
 backgroundSize: 45% 
 ---
 
@@ -483,7 +483,7 @@ transition: none
 
 # C'est là que Jésus revient
 
-<img src="/assets/images/Jesus.jpg" />
+<img src="/images/Jesus.jpg" />
 
 <style>
   img {
@@ -500,7 +500,7 @@ class: bg-black
 
 # ou plus exactement cette histoire de Y 
 
-<img src="/assets/images/Jesus-y.png" />
+<img src="/images/Jesus-y.png" />
 
 <style>
   img {
@@ -514,7 +514,7 @@ class: bg-black
 
 ---
 layout: image-right
-image: assets/images/strategie-du-y.png
+image: ./images/strategie-du-y.png
 ---
 
 # La stratégie du Y
@@ -530,7 +530,7 @@ On se rapproche un peu plus du numérique…
 
 ---
 layout: cover
-background: assets/images/welcome-to-sodom.jpg
+background: ./images/welcome-to-sodom.jpg
 ---
 
 # Peut-on définir des [limites numériques](https://limitesnumeriques.fr/) ?
@@ -644,7 +644,7 @@ et repenser ce qu'on garde
 
 ---
 layout: image-right
-image: assets/images/punkt-phone.jpg
+image: ./images/punkt-phone.jpg
 ---
 
 # Quelques idées
