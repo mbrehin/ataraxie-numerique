@@ -323,7 +323,7 @@ layout: center
 layout: center
 ---
 
-Revenons à ce que disais Epicure
+Revenons à ce que disait Epicure
 
 <div class="text-3xl">la clef du bonheur est de connaître ses propres limites</div>
 
@@ -356,7 +356,7 @@ class: bg-black
 layout: center
 ---
 
-Précisons ici que les limites personnelles, même si on pouvait les définir, seraient à géométrie variables.
+Précisons ici que les limites personnelles, même si on pouvait les définir, seraient à géométrie variable.
 
 <v-click>
   Et dans un contexte mondialisé, il va falloir une approche holistique*.
@@ -673,11 +673,13 @@ layout: center
 
 # Est-ce que tout cela peut nous mener à l'ataraxie et contribuer à notre bonheur ?
 
-<v-click>
+<v-clicks>
 
 Je pense que oui, si on fait l'effort de continuer à se poser la question.
 
-</v-click>
+Et vous ? 
+
+</v-clicks>
 
 ---
 layout: end
@@ -698,6 +700,21 @@ layout: default
 
 <!-- Toilettes sèches : photo de <a href="https://unsplash.com/fr/@rstar50?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Roger Starnes Sr</a> sur <a href="https://unsplash.com/fr/photos/porte-en-bois-marron-sur-branches-darbre-en-bois-marron-3axehLxchXo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a> -->
 
+- Un peu de lecture
+  - "La convivialité", Ivan Illich 
+  - "Faut-il se passer du numérique", Cédric Durant
+  - "Epicure et l'économie du bonheur", Etienne Helmer
+  - "Changer de boussole, La croissance ne vaincra pas la pauvreté", Olivier de Schutter
+  - "[How to build a low-tech internet](https://openlibrary.org/books/OL50543280M/How_to_build_a_low-tech_internet)", Kris de Decker, Marie Otsuka et Roel Roscam Abbing
+  - "[La ville stationnaire, Comment mettre fin à létalement urbain ?](https://actes-sud.fr/catalogue/nature-et-environnement/la-ville-stationnaire)", Philippe Bihouix, Sophie Jeantet, Clémence De Selva
+  - "Low-tech journal", divers numéros
+  - "Libérer le temps", hors-série Socialter
+  - Rapport "[Digital Reset](https://digitalization-for-sustainability.com/digital-reset/)", D4S
+  - "[Lean ICT - Pour une sobriété numérique](https://theshiftproject.org/app/uploads/2025/02/Rapport-final-v8-WEB.pdf)", The Shift Project
+  - "[Vers une ataraxie numérique : low-technicisation et convivialité](https://aswemay.fr/co/040011.html)", Stéphane Crozat
+  - "[Democratizing provisioning systems: a prerequisite for living well within limits, Sustainability: Science, Practice and Policy](https://www.tandfonline.com/journals/tsus20)", Julia Steinberger, Gauthier Guerin, Elena Hofferberth & Elke Pirgmaier (2024)
+  - Théorie du donut et dépassements par [DoughnutEconomics](https://commons.wikimedia.org/w/index.php?curid=75695170) — CC BY-SA 4.0
+  - Limites planétaires : [Stockolm Resilience Center](https://www.stockholmresilience.org/research/planetary-boundaries.html)
 - Images
   - Grillage : photo de <a href="https://unsplash.com/fr/@abject?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">benjamin lehman</a> sur <a href="https://unsplash.com/fr/photos/gros-plan-dune-cloture-a-mailles-de-chaine-LbEOZyGFdHU?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
   - Jesus : photo de <a href="https://unsplash.com/fr/@massimovirgilio?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Massimo Virgilio</a> sur <a href="https://unsplash.com/fr/photos/une-statue-de-jesus-sur-une-croix-dans-lobscurite-A4H1z8tPQKE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
@@ -705,18 +722,6 @@ layout: default
   - Stop piéton : photo de <a href="https://unsplash.com/fr/@chandu029?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Dust & Pixels</a> sur <a href="https://unsplash.com/fr/photos/un-feu-rouge-avec-un-signal-de-la-main-dessus-1RKTMTT-tZM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
   - Bougies : photo de <a href="https://unsplash.com/fr/@labrum777?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Mike Labrum</a> sur <a href="https://unsplash.com/fr/photos/photo-en-contre-plongee-de-bougies-allumees-fvl4b1gjpbk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
   - Socrate devant un ordinateur : image prise sans consentement à Freepik qui promeut des images générées par IA, elles aussi sans consentement des auteurs plagiés 😝.
-- Un peu de lecture
-  - "La convivialité", Ivan Illich 
-  - "Faut-il se passer du numérique", Cédric Durant
-  - "Epicure et l'économie du bonheur", Etienne Helmer
-  - "[Vers une ataraxie numérique : low-technicisation et convivialité](https://aswemay.fr/co/040011.html)", Stéphane Crozat
-  - "Low-tech journal", divers numéros
-  - "Libérer le temps", hors-série Socialter
-  - Rapport "[Digital Reset](https://digitalization-for-sustainability.com/digital-reset/)", D4S
-  - "[Lean ICT - Pour une sobriété numérique](https://theshiftproject.org/app/uploads/2025/02/Rapport-final-v8-WEB.pdf)", The Shift Project
-  - "[Democratizing provisioning systems: a prerequisite for living well within limits, Sustainability: Science, Practice and Policy](https://www.tandfonline.com/journals/tsus20)", Julia Steinberger, Gauthier Guerin, Elena Hofferberth & Elke Pirgmaier (2024)
-  - Théorie du donut et dépassements par [DoughnutEconomics](https://commons.wikimedia.org/w/index.php?curid=75695170) — CC BY-SA 4.0
-  - Limites planétaires : [Stockolm Resilience Center](https://www.stockholmresilience.org/research/planetary-boundaries.html)
 - Support de slides : https://sli.dev
   
 </div>
