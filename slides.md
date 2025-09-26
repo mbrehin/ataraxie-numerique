@@ -687,6 +687,8 @@ layout: end
 
 # Merci de m'avoir écouté
 
+maxime@technolowgic.com
+
 ---
 layout: default
 ---
@@ -723,5 +725,7 @@ layout: default
   - Bougies : photo de <a href="https://unsplash.com/fr/@labrum777?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Mike Labrum</a> sur <a href="https://unsplash.com/fr/photos/photo-en-contre-plongee-de-bougies-allumees-fvl4b1gjpbk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
   - Socrate devant un ordinateur : image prise sans consentement à Freepik qui promeut des images générées par IA, elles aussi sans consentement des auteurs plagiés 😝.
 - Support de slides : https://sli.dev
+
+Ces slides sont sous-license [CC BY-SA 4.0](https://www.creativecommons.org/licenses/by-sa/4.0/deed.fr) pour faciliter leur réutilisation.
   
 </div>
